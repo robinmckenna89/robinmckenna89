@@ -1,0 +1,5 @@
+- 👋 Hey, I'm Robin!
+- 👀 I’m interested in learning to make video games, but also apps and some other personal projects.
+- 🌱 I’m currently learning everything. Super new! I have some past experience with HTML, CSS, and a tiiiiny bit of C# from playing around in Unity. 
+- 💞️ For personal stuff, I love reading, video games, fairytales, and friends!!!
+- 📫 You can email me at robinmckenna89@gmail.com 
